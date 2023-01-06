@@ -12,6 +12,6 @@ https://invidious.snopyta.org/watch?v=SAUvlkTDMM4
 
 Free Hosting
 
-https://invidious.snopyta.org/watch?v=MusIvEKjqsc&listen=false
-https://invidious.snopyta.org/watch?v=TMGHOW8Hzvw
-https://invidious.snopyta.org/watch?v=bnCOyGaSe84
+https://invidious.snopyta.org/watch?v=MusIvEKjqsc&listen=false   
+https://invidious.snopyta.org/watch?v=TMGHOW8Hzvw   
+https://invidious.snopyta.org/watch?v=bnCOyGaSe84     
