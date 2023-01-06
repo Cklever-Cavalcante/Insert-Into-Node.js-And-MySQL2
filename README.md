@@ -11,3 +11,6 @@ Free Hosting
 https://invidious.snopyta.org/watch?v=MusIvEKjqsc&listen=false   
 https://invidious.snopyta.org/watch?v=TMGHOW8Hzvw   
 https://invidious.snopyta.org/watch?v=bnCOyGaSe84     
+
+Browserify  
+https://stackoverflow.com/questions/19059580/client-on-node-js-uncaught-referenceerror-require-is-not-defined   
